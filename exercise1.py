@@ -11,10 +11,10 @@ Example:
 
 """
 
-__author__ = 'Susan Sim'
-__email__ = "ses@drsusansim.org"
+__author__ = 'Magdalene Schifferer'
+__email__ = "magdaleneschifferer@outlook.com"
 
-__copyright__ = "2014 Susan Sim"
+__copyright__ = "2014 Susan Sim Magadelene Schifferer"
 __license__ = "MIT License"
 
 __status__ = "Prototype"
